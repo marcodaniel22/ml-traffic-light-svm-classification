@@ -1,1 +1,2 @@
-# ml-traffic-light-svm-classification
+# Final class work carried out for postgraduate discipline:
+## Classification Methods
